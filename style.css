@@ -1,0 +1,55 @@
+body {
+  background-color: blue;
+  font-family: "Times New Roman";
+}
+
+.container-fluid {
+  margin-top: 150px;
+}
+
+h1 {
+  color: white;
+  font-size: 45px;
+}
+
+p {
+  color: white;
+  font-size: 20px;
+}
+
+.quotes {
+  width: 50%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  color: white;
+  border-color: white;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 30px;
+}
+
+.author {
+  font-size: 20px;
+  font-style: italic;
+}
+
+.btn {
+  margin-top: 20px;
+}
+
+#tweet {
+  margin-left: 20px;
+  width: 100px;
+}
+
+.footer {
+  margin-top: 20px;
+}
+
+a {
+  color: white;
+  font-style: italic;
+}
